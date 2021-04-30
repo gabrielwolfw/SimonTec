@@ -23,12 +23,12 @@
 
 ***
 ## > Clasificación según criticidad y frecuencia de uso
-![imagen de criticidad](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/criticidad_1.png)
+![imagen de criticidad](plan/criticidad_1.png)
 
 
 ***
 ## > Minimal system span
-![Imagen de minimal span](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/spanM_1.png)
+![Imagen de minimal span](plan/spanM_1.png)
 
 
 ***
@@ -43,8 +43,8 @@
 
 ***
 ## > Diagrama conceptual
-![Imagen de Conceptual](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/conceptual_1.png)
+![Imagen de Conceptual](plan/conceptual_1.png)
 
 ***
 ## > Diagrama de clases a nivel de implementación 
-![Imagen de class](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/classSimon_1.png)
+![Imagen de class](plan/classSimon_1.png)
