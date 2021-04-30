@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Simon Tec
 
-You can use the [editor on GitHub](https://github.com/gabrielwolfw/SimonTec/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+***
+## > Historias de usuario identificadas del problema propuesto
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+❖ Como usuario: quiero que en la pantalla se genere cuatro botones sean de colores distintos.
 
-- Bulleted
-- List
+❖ Como usuario: quiero que se pueda visualizar en cada botón el color rojo, verde, amarillo y azul.
 
-1. Numbered
-2. List
+❖ Como usuario: quiero que los botones posean una melodía.
 
-**Bold** and _Italic_ and `Code` text
+❖ Como usuario: quiero que se genere una condición de game over.
 
-[Link](url) and ![Image](src)
+❖ Como usuario: quiero que posea una cantidad de niveles n.
+
+❖ Como usuario: quiero que el juego genere una secuencia aleatoria en los botones.
+
+❖ Como usuario: quiero que cada nivel tenga una velocidad mayor para cada secuencia.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+***
+## > Clasificación según criticidad y frecuencia de uso
+![imagen de criticidad](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/criticidad_1.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielwolfw/SimonTec/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+***
+## > Minimal system span
+![Imagen de minimal span](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/spanM_1.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+***
+## > Plan de iteraciones
+```markdown
+* Generar una interfaz grafica con 4 botones
+* 
+* 
+* 
+* 
+```
+
+***
+## > Diagrama conceptual
+![Imagen de Conceptual](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/conceptual_1.png)
+
+***
+## > Diagrama de clases a nivel de implementación 
+![Imagen de class](https://github.com/gabrielwolfw/SimonTec/blob/main/plan/classSimon_1.png)
