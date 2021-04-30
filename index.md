@@ -34,11 +34,17 @@
 ***
 ## > Plan de iteraciones
 ```markdown
-* Generar una interfaz grafica con 4 botones
-* 
-* 
-* 
-* 
+▸ Generar una interfaz grafica con 4 botones
+
+▸ Generar una sequencia a seguir de forma aleatoria
+
+▸ Presionar los botones para generar una secuencias mas extensa
+
+▸ Mostrar el nivel actual con un texto informativo en el centro
+
+▸ Generar una situación de perdida
+
+▸ Generar una nueva partida con patrones aleatorios
 ```
 
 ***
