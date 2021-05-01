@@ -36,21 +36,27 @@
 ```markdown
 1. Pimer Iteración
 
-▸ Generar una interfaz grafica con 4 botones
+▸ Generar una interfaz grafica con 4 botones.
 
-▸ Generar una sequencia a seguir de forma aleatoria
+▸ Generar una sequencia a seguir de forma aleatoria.
+
+▸ Verificar que la sequencia compruebe con datos ingresados del usuario.
 
 2. Segunda Iteración
 
-▸ Presionar los botones para generar una secuencias mas extensa
+▸ Presionar los botones para generar una secuencias mas extensa.
 
-▸ Mostrar el nivel actual con un texto informativo en el centro
+▸ Generar una melodia a cada boton una vez presionado.
+
+▸ Mostrar el nivel actual con un texto informativo en el centro.
 
 3. Tercer Iteración
 
-▸ Generar una situación de perdida
+▸ Botones con reaccion distintas si el mouse esta encima o no del boton.
 
-▸ Generar una nueva partida con patrones aleatorios
+▸ Generar una situación de perdida.
+
+▸ Generar una nueva partida con patrones aleatorios.
 
 ```
 
