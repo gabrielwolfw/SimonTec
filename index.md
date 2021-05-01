@@ -60,4 +60,4 @@
 
 ***
 ## > Diagrama de clases a nivel de implementación 
-![Imagen de class](plan/classSimon_1.png)
+![Imagen de class](plan/SimonTec_11.png)
