@@ -34,17 +34,24 @@
 ***
 ## > Plan de iteraciones
 ```markdown
+1. Pimer Iteración
+
 ▸ Generar una interfaz grafica con 4 botones
 
 ▸ Generar una sequencia a seguir de forma aleatoria
+
+2. Segunda Iteración
 
 ▸ Presionar los botones para generar una secuencias mas extensa
 
 ▸ Mostrar el nivel actual con un texto informativo en el centro
 
+3. Tercer Iteración
+
 ▸ Generar una situación de perdida
 
 ▸ Generar una nueva partida con patrones aleatorios
+
 ```
 
 ***
